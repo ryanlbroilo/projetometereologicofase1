@@ -13,7 +13,7 @@ Programa em Python que coleta e valida a temperatura máxima mensal (em °C) par
 ## 🛠 Tecnologias
 Python 3
 
-📁 Execução
+## 📁 Execução
 Para executar:
 Utilize Bash para rodar a função abaixo:
 python projeto_fase1_temperaturas.py
