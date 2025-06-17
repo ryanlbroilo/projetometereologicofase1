@@ -1,4 +1,4 @@
-# Projeto Fase 1 - Análise de Dados Meteorológicos
+# 🌦️ Análise Meteorológica Porto Alegre (1961-2016) – Fase 1 do Projeto
 
 Programa em Python que coleta e valida a temperatura máxima mensal (em °C) para os 12 meses de 2021, informados pelo usuário.
 
