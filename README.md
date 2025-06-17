@@ -10,7 +10,7 @@ Programa em Python que coleta e valida a temperatura máxima mensal (em °C) par
   - Quantidade de meses com temperatura > 33 °C.
   - Identificação do mês mais quente e do menos quente (nomes por extenso).
   
-🛠 Tecnologias
+## 🛠 Tecnologias
 Python 3
 
 📁 Execução
