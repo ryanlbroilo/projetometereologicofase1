@@ -15,7 +15,7 @@ Python 3
 
 ## 📁 Execução
 
- Para executar, utilize Bash para rodar a função abaixo
+ Para executar, utilize Bash para rodar a função abaixo:
  - python projeto_fase1_temperaturas.py
 
 ## 👨‍🎓 Autor
