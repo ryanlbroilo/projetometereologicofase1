@@ -1,4 +1,4 @@
-# Projeto Fase 1 - Análise de Dados Meteorológicos Fase 1
+# Projeto Fase 1 - Análise de Dados Meteorológicos
 
 Programa em Python que coleta e valida a temperatura máxima mensal (em °C) para os 12 meses de 2021, informados pelo usuário.
 
