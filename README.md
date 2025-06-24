@@ -22,4 +22,4 @@ Python 3
 
 Ryan Lizze Broilo  
 PUC-RS – Curso de Análise e Desenvolvimento de Sistemas  
-Disciplina: Fundamentos de Sistemas Web – 2025
+Disciplina: Lógica e programação de computadores – 2025
